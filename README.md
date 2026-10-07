@@ -1,12 +1,12 @@
 ### Hi, I'm Socheat Chea 👋
 
-**AI Engineer in Siem Reap, Cambodia.** I build production software with AI coding agents, and I run it
+**AI Builder in Siem Reap, Cambodia.** I build production software with AI coding agents, and I run it
 myself. Claude Code writes the code, Codex audits it independently, and I write the specs, set the
 guardrails, make the decisions and do every deploy.
 
 **Portfolio → [socheatcambodia.github.io](https://socheatcambodia.github.io)**
 
-[![Socheat Chea, AI Engineer: 5 systems in production, 1,000+ commits, 6,500+ automated tests, 200+ AI audit verdicts](https://socheatcambodia.github.io/og.png)](https://socheatcambodia.github.io)
+[![Socheat Chea, AI Builder: 5 systems in production, 1,000+ commits, 6,500+ automated tests, 200+ AI audit verdicts](https://socheatcambodia.github.io/og.png)](https://socheatcambodia.github.io)
 
 #### What I've shipped in 2026
 
